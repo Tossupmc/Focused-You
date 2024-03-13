@@ -1,22 +1,27 @@
-## Overview
-This browser extension aims to enhance your YouTube browsing experience by hiding shorts and suggested videos. It injects CSS scripts to achieve this functionality.
+## YouTube Focused-You Browser Extension
 
-## How it Works
-The extension utilizes CSS scripts to hide shorts and suggested videos while you browse YouTube. By injecting these scripts into the YouTube page, it modifies the layout to exclude unwanted elements, providing a cleaner viewing experience.
+### Overview
+Enhance your YouTube browsing experience by eliminating distractions such as shorts and suggested videos with the Focused-You browser extension. This extension injects a CSS script to seamlessly hide unwanted content, allowing you to focus on the videos that matter most.
 
-## Requirements
-To utilize this extension, you'll need a browser that supports the [`:has`](https://developer.mozilla.org/en-US/docs/Web/CSS/:has) CSS selector. Specifically, Chrome/Edge version 105 or above, Firefox version 121 or above, and Opera version 91 or above are required due to their support for this selector.
+### Requirements
+To utilize Focused-You, ensure your browser supports the `:has` CSS selector. It is compatible with:
+- Chrome version 105 or above
+- Edge version 105 or above
+- Opera version 91 or above
+- Firefox version 121 or above
 
-## Installation and Usage
-1. Install the extension in your compatible browser.
-2. Once installed, the extension will automatically start working whenever you browse YouTube.
-3. Enjoy a clutter-free YouTube experience without shorts and suggested videos.
+### Installation and Usage
+1. **Download**: Get the extension from [GitHub](https://github.com/Tossupmc/Focused-You) by downloading the zip file or cloning the repository using `git clone`.
+2. **Unzip**: Extract the downloaded file to a permanent location on your device.
+3. **Browser Setup**:
+   - For Chrome/Edge: Enable developer mode in the extensions settings.
+   - For Firefox: Enable developer mode in the add-ons settings.
+   - For Opera: Enable developer mode in the extensions manager.
+4. **Load Extension**:
+   - In your browser's extension settings, find the option to "Load unpacked" or "Load extension" and select the folder containing the extension files.
 
-## Acknowledgments
-Special thanks to [`umutseven92`](https://github.com/umutseven92) and their [Short Blocker](https://github.com/umutseven92/shorts-blocker/) Repository for providing valuable insight and inspiration for this project.
+### Acknowledgments
+Special thanks to [@umutseven92](https://github.com/umutseven92) for their insightful work on the [short-blocker](https://github.com/umutseven92/shorts-blocker/) repository, which inspired and provided valuable guidance for the development of Focused-You.
 
-## Suggestions and Feedback
-I welcome any suggestions, feedback, or contributions to improve this extension further. Feel free to reach out with your ideas or report any issues you encounter.
-
-## License
-This project is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+### License
+Focused-You is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License), giving users the freedom to modify and distribute the extension as needed.
