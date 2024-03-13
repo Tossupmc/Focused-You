@@ -11,7 +11,7 @@ To utilize Focused-You, ensure your browser supports the `:has` CSS selector. It
 - Firefox version 121 or above
 
 ### Installation and Usage
-1. **Download**: Get the extension from [GitHub](https://github.com/Tossupmc/Focused-You) by downloading the zip file or cloning the repository using `git clone`.
+1. **Download**: Get the extension from [GitHub](https://github.com/Tossupmc/Focused-You) by downloading the zip file or use `git clone` to clone the repository.
 2. **Unzip**: Extract the downloaded file to a permanent location on your device.
 3. **Browser Setup**:
    - For Chrome/Edge: Enable developer mode in the extensions settings.
