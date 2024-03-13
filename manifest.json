@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Focused-You",
+    "version": "1.0",
+    "description": "Make YouTube less distracting.",
+    "content_scripts": [{
+        "css":["main-css/yt-distraction-blocker.css"],
+        "matches":["https://www.youtube.com/*"]
+        }]
+}

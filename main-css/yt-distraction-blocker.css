@@ -1,0 +1,17 @@
+ytd-reel-shelf-renderer,
+a.ytp-next-button,
+iron-selector#chips {
+    visibility: hidden !important;
+    display: none !important;
+}
+
+ytd-compact-video-renderer,
+ytd-rich-item-renderer {
+    visibility: hidden !important;
+}
+
+ytd-guide-entry-renderer:has(a[title="Shorts"]),
+ytd-mini-guide-entry-renderer:has(a[title="Shorts"]) {
+    visibility: hidden !important;
+    display: none !important;
+}
